@@ -20,8 +20,8 @@ YouTube URL for demo: [https://youtu.be/rTdhSHmASWQ](https://youtu.be/rTdhSHmASW
 
 1. Auto-complete
 
-![Alt text](https://app.box.com/files/0/f/15539139523/1/f_117211889554/a2.jpg "Optional title")
+![Alt text](https://github.com/AmeyRuikar/SearchOn/blob/master/img/q1.jpg "Optional title")
 
 2. Spell Corrector
 
-![Alt text](https://app.box.com/files/0/f/15539139523/1/f_117211889554/a1.jpg "Optional title")
+![Alt text](https://github.com/AmeyRuikar/SearchOn/blob/master/img/q2.jpg "Optional title")
