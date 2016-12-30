@@ -1,15 +1,27 @@
-# Solr PHP Client
+# Search Engine with PHP client.
 
-A purely PHP library for indexing and searching documents against an Apache Solr installation.
+YouTube URL for demo: [https://youtu.be/rTdhSHmASWQ](https://youtu.be/rTdhSHmASWQ)
 
-This project was formerly maintained at [http://code.google.com/p/solr-php-client](http://code.google.com/p/solr-php-client). Previous issues and downloads are still available for viewing there.
+## Features:
 
-## Need Help?
+1. Auto-complete functionality(suggestions)
 
-Try starting with the [FAQ](https://github.com/PTCInc/solr-php-client/wiki/FAQ) and [Example Usage](https://github.com/PTCInc/solr-php-client/wiki/Example-Usage).
+    a. To add suggestions, there is an added suggest handler in solrconfig.xml, This handler returns 10 suggestions for each request.
 
-Also, feel free to search and ask questions on the google mailing list: [php-solr-client@googlegroups.com](mailto:php-solr-client@googlegroups.com) / [Group Page](https://groups.google.com/forum/?fromgroups#!forum/php-solr-client)
+2. Spell checker/corrector
 
-## License
+    a. enchant python package(django)
 
-Code is released under a 3-Clause BSD license, see [COPYING](https://github.com/PTCInc/solr-php-client/blob/master/COPYING) for full text.
+3. 'google' like display client
+
+    a. PHP solr client used as an interface[http://code.google.com/p/solr-php-client](http://code.google.com/p/solr-php-client)
+
+## Samples:
+
+1. Auto-complete
+
+![Alt text](https://app.box.com/files/0/f/15539139523/1/f_117211889554/a2.jpg "Optional title")
+
+2. Spell Corrector
+
+![Alt text](https://app.box.com/files/0/f/15539139523/1/f_117211889554/a1.jpg "Optional title")
