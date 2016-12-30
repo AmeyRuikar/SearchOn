@@ -18,10 +18,10 @@ YouTube URL for demo: [https://youtu.be/rTdhSHmASWQ](https://youtu.be/rTdhSHmASW
 
 ## Samples:
 
-1. Auto-complete
+Auto-complete
 
 ![Alt text](https://github.com/AmeyRuikar/SearchOn/blob/master/img/q1.jpg "Optional title")
 
-2. Spell Corrector
+Spell Corrector
 
 ![Alt text](https://github.com/AmeyRuikar/SearchOn/blob/master/img/q2.jpg "Optional title")
